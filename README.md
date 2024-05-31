@@ -1,7 +1,27 @@
-# plant-disease-prediction-cnn-deep-leanring-project
-This repository is about building an Image classifier CNN with Python on Plant Disease Prediction.
+# Plant-Disease-Diagnosis-Flask
+Online Flask Web App for Plant Disease Diagnosis from Images <br>
 
-Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+<img src="demo.JPG" width="600" height="300"/><br><br>
 
-Trained Model Link: [[https://drive.google.com/file/d/1i466c4XOs048Q54EPCqgzoG8zWcARnrj/view?usp=sharing](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=sharing)](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link
+## Required Tools
+```
+Python 3.6 or greater, Tensorflow 2, Flask, Gevent, Scikit-Learn
+```
+
+## Run
+```
+flask run
+```
+
+Open Browser at http://121.0.0.1:5000
+
+## Dataset
+
+https://www.kaggle.com/emmarex/plantdisease
+
+
+## Implementation
+
+
+https://www.kaggle.com/shawon10/plant-disease-classification-using-densenet121
 
